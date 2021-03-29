@@ -14,7 +14,6 @@ edge-mqtt.facebook.com
 fls-eu.amazon.de
 graph.facebook.com
 in.appcenter.ms
-instagram.c10r.facebook.com
 ip-info.ff.avast.com
 mmfiles.amp.mcafee.com
 mqtt-mini.facebook.com
