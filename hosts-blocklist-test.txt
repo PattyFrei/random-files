@@ -13,6 +13,7 @@ de.ioam.de
 edge-mqtt.facebook.com
 fls-eu.amazon.de
 graph.facebook.com
+graphql.facebook.com
 in.appcenter.ms
 ip-info.ff.avast.com
 mmfiles.amp.mcafee.com
