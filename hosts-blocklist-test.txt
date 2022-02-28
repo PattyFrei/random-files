@@ -10,7 +10,6 @@ config-api.internet.apps.samsung.com
 config.ioam.de
 connect.facebook.net
 de.ioam.de
-edge-mqtt.facebook.com
 fls-eu.amazon.de
 graph.facebook.com
 graph.instagram.com
@@ -18,7 +17,6 @@ graphql.instagram.com
 in.appcenter.ms
 ip-info.ff.avast.com
 mmfiles.amp.mcafee.com
-mqtt-mini.facebook.com
 mup.amp.mcafee.com
 privatestats.whatsapp.net
 rivetdbc.azurewebsites.net
